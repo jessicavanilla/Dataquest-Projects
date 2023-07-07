@@ -1,0 +1,7 @@
+IDE - Integrated Development Environment
+OOP - Object Orientated Programming
+UX - User Experience
+JSON - JavaScript Object Notation
+TDD - Test Driven Development
+ML - Machine Learning
+AI - Artifical Intelligence
