@@ -12,3 +12,7 @@ website (currently using Django).
 - Use the Python requests module to upload content to a running Web service
 
 - Understand basic operations for Python requests like GET and POST methods 
+
+
+Successfully sending Python dictionaries to a web service: 
+![Screenshot 2023-08-17 at 7 56 42 PM](https://github.com/jessicavanilla/Python-Learning-Projects/assets/104735599/e1384c17-b29d-4a16-9b83-0d9961558600)
